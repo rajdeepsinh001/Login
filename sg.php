@@ -39,7 +39,7 @@ if(@$_REQUEST['btn']=='SignUp'){
         <input type="text" name="fn" placeholder="Name"><br><br>
         <input type="text" name="un" placeholder="Username"><br><br>
         <input type="password" name="ps" placeholder="Password"><br><br>
-        <input type="submit" name="btn" value="SignUp">
+        <input type="submit" name="btn" value="Signup">
     </form>
 </body>
 </html>
